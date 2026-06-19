@@ -1,5 +1,5 @@
 app_version = '0.7.400'
-name = 'AMG GT3'
+name = 'T-598 First Try'
 
 [Advanced]
 aux_telemetry_reconstruction = 0
